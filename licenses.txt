@@ -1,0 +1,751 @@
+vendor/autocfg-0.1.8/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/autocfg-0.1.8/LICENSE-MIT: MIT License
+vendor/clap-2.34.0/LICENSE-MIT: MIT License
+vendor/env_logger-0.7.1/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/env_logger-0.7.1/LICENSE-MIT: MIT License
+vendor/getrandom-0.1.16/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/getrandom-0.1.16/LICENSE-MIT: MIT License
+vendor/hermit-abi-0.1.19/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/hermit-abi-0.1.19/LICENSE-MIT: *No copyright* MIT License
+vendor/humantime-1.3.0/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/humantime-1.3.0/LICENSE-MIT: MIT License
+vendor/itoa-0.4.8/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/itoa-0.4.8/LICENSE-MIT: *No copyright* MIT License
+vendor/quick-error-1.2.3/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/quick-error-1.2.3/LICENSE-MIT: MIT License
+vendor/rand-0.7.3/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rand-0.7.3/LICENSE-MIT: MIT License
+vendor/rand_chacha-0.2.2/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rand_chacha-0.2.2/LICENSE-MIT: MIT License
+vendor/rand_core-0.5.1/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rand_core-0.5.1/LICENSE-MIT: MIT License
+vendor/textwrap-0.11.0/LICENSE: MIT License
+vendor/wasi-0.9.0+wasi-snapshot-preview1/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/wasi-0.9.0+wasi-snapshot-preview1/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/wasi-0.9.0+wasi-snapshot-preview1/LICENSE-MIT: *No copyright* MIT License
+vendor/wasi-0.10.2+wasi-snapshot-preview1/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/wasi-0.10.2+wasi-snapshot-preview1/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/wasi-0.10.2+wasi-snapshot-preview1/LICENSE-MIT: *No copyright* MIT License
+vendor/addr2line/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/addr2line/LICENSE-MIT: MIT License
+vendor/adler/LICENSE-0BSD: BSD 0-Clause License
+vendor/adler/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/adler/LICENSE-MIT: *No copyright* MIT License
+vendor/aead/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/aead/LICENSE-MIT: MIT License
+vendor/aes/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/aes/LICENSE-MIT: MIT License
+vendor/aes-gcm/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/aes-gcm/LICENSE-MIT: MIT License
+vendor/ahash/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/ahash/LICENSE-MIT: MIT License
+vendor/aho-corasick/LICENSE-MIT: MIT License
+vendor/ambient-authority/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/ambient-authority/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/ambient-authority/LICENSE-MIT: *No copyright* MIT License
+vendor/anyhow/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/anyhow/LICENSE-MIT: *No copyright* MIT License
+vendor/arbitrary/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/arbitrary/LICENSE-MIT: MIT License
+vendor/arrayvec/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/arrayvec/LICENSE-MIT: MIT License
+vendor/async-trait/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/async-trait/LICENSE-MIT: *No copyright* MIT License
+vendor/atty/LICENSE: MIT License
+vendor/autocfg/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/autocfg/LICENSE-MIT: MIT License
+vendor/backtrace/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/backtrace/LICENSE-MIT: MIT License
+vendor/base64/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/base64/LICENSE-MIT: MIT License
+vendor/base64ct/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/base64ct/LICENSE-MIT: MIT License
+vendor/bincode/LICENSE.md: MIT License
+vendor/bit-set/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/bit-set/LICENSE-MIT: MIT License
+vendor/bit-vec/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/bit-vec/LICENSE-MIT: MIT License
+vendor/bitflags/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/bitflags/LICENSE-MIT: MIT License
+vendor/block-buffer/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/block-buffer/LICENSE-MIT: MIT License
+vendor/bstr/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/bstr/LICENSE-MIT: MIT License
+vendor/bstr/src/unicode/data/LICENSE-UNICODE: Unicode License Agreement - Data Files and Software (2016)
+vendor/bumpalo/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/bumpalo/LICENSE-MIT: MIT License
+vendor/byteorder/LICENSE-MIT: MIT License
+vendor/bytes/LICENSE: MIT License
+vendor/cap-fs-ext/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cap-fs-ext/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/cap-fs-ext/LICENSE-MIT: *No copyright* MIT License
+vendor/cap-primitives/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cap-primitives/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/cap-primitives/LICENSE-MIT: *No copyright* MIT License
+vendor/cap-rand/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cap-rand/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/cap-rand/LICENSE-MIT: *No copyright* MIT License
+vendor/cap-std/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cap-std/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/cap-std/LICENSE-MIT: *No copyright* MIT License
+vendor/cap-tempfile/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cap-tempfile/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/cap-tempfile/LICENSE-MIT: *No copyright* MIT License
+vendor/cap-time-ext/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cap-time-ext/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/cap-time-ext/LICENSE-MIT: *No copyright* MIT License
+vendor/capstone/LICENSE: MIT License
+vendor/capstone-sys/LICENSE: MIT License
+vendor/capstone-sys/capstone/LICENSE.TXT: BSD 3-Clause License
+vendor/capstone-sys/capstone/LICENSE_LLVM.TXT: University of Illinois/NCSA Open Source License
+vendor/capstone-sys/capstone/bindings/python/LICENSE.TXT: BSD 3-Clause License
+vendor/capstone-sys/capstone/suite/regress/LICENSE: BSD 3-Clause License
+vendor/cast/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cast/LICENSE-MIT: MIT License
+vendor/cc/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cc/LICENSE-MIT: MIT License
+vendor/cfg-if/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cfg-if/LICENSE-MIT: MIT License
+vendor/chacha20/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/chacha20/LICENSE-MIT: MIT License
+vendor/chacha20poly1305/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/chacha20poly1305/LICENSE-MIT: MIT License
+vendor/cipher/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cipher/LICENSE-MIT: MIT License
+vendor/clap/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/clap/LICENSE-MIT: MIT License
+vendor/clap_derive/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/clap_derive/LICENSE-MIT: MIT License
+vendor/clap_lex/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/clap_lex/LICENSE-MIT: MIT License
+vendor/console/LICENSE: MIT License
+vendor/const-oid/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/const-oid/LICENSE-MIT: MIT License
+vendor/cpp_demangle/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cpp_demangle/LICENSE-MIT: MIT License
+vendor/cpufeatures/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cpufeatures/LICENSE-MIT: MIT License
+vendor/crc32fast/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/crc32fast/LICENSE-MIT: MIT License
+vendor/criterion/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/criterion/LICENSE-MIT: MIT License
+vendor/criterion-plot/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/criterion-plot/LICENSE-MIT: MIT License
+vendor/crossbeam-channel/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/crossbeam-channel/LICENSE-MIT: MIT License
+vendor/crossbeam-channel/LICENSE-THIRD-PARTY: *No copyright* Apache License 2.0
+vendor/crossbeam-deque/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/crossbeam-deque/LICENSE-MIT: MIT License
+vendor/crossbeam-epoch/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/crossbeam-epoch/LICENSE-MIT: MIT License
+vendor/crossbeam-utils/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/crossbeam-utils/LICENSE-MIT: MIT License
+vendor/crypto-bigint/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/crypto-bigint/LICENSE-MIT: MIT License
+vendor/crypto-mac/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/crypto-mac/LICENSE-MIT: MIT License
+vendor/csv/LICENSE-MIT: MIT License
+vendor/csv-core/LICENSE-MIT: MIT License
+vendor/ctr/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/ctr/LICENSE-MIT: MIT License
+vendor/cty/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/cty/LICENSE-MIT: MIT License
+vendor/curve25519-dalek/LICENSE: BSD 3-Clause License
+vendor/der/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/der/LICENSE-MIT: MIT License
+vendor/derivative/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/derivative/LICENSE-MIT: MIT License
+vendor/derive_arbitrary/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/derive_arbitrary/LICENSE-MIT: MIT License
+vendor/digest/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/digest/LICENSE-MIT: MIT License
+vendor/directories-next/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/directories-next/LICENSE-MIT: MIT License
+vendor/dirs-next/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/dirs-next/LICENSE-MIT: MIT License
+vendor/dirs-sys-next/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/dirs-sys-next/LICENSE-MIT: MIT License
+vendor/downcast-rs/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/downcast-rs/LICENSE-MIT: MIT License
+vendor/dunce/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/ed25519/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/ed25519/LICENSE-MIT: MIT License
+vendor/ed25519-dalek/LICENSE: BSD 3-Clause License
+vendor/egg/LICENSE: MIT License
+vendor/either/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/either/LICENSE-MIT: MIT License
+vendor/elliptic-curve/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/elliptic-curve/LICENSE-MIT: MIT License
+vendor/encode_unicode/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/encode_unicode/LICENSE-MIT: *No copyright* MIT License
+vendor/encoding_rs/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/encoding_rs/LICENSE-MIT: MIT License
+vendor/encoding_rs/LICENSE-WHATWG: BSD 3-Clause License
+vendor/env_logger/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/env_logger/LICENSE-MIT: MIT License
+vendor/errno/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/errno/LICENSE-MIT: MIT License
+vendor/errno-dragonfly/LICENSE: MIT License
+vendor/fallible-iterator/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/fallible-iterator/LICENSE-MIT: MIT License
+vendor/fastrand/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/fastrand/LICENSE-MIT: *No copyright* MIT License
+vendor/ff/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/ff/LICENSE-MIT: MIT License
+vendor/file-per-thread-logger/LICENSE: *No copyright* Apache License 2.0
+vendor/filecheck/LICENSE: *No copyright* Apache License 2.0
+vendor/filetime/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/filetime/LICENSE-MIT: MIT License
+vendor/flagset/LICENSE: *No copyright* Apache License 2.0
+vendor/fnv/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/fnv/LICENSE-MIT: MIT License
+vendor/fs-set-times/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/fs-set-times/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/fs-set-times/LICENSE-MIT: *No copyright* MIT License
+vendor/fslock/LICENSE: MIT License
+vendor/generic-array/LICENSE: MIT License
+vendor/getrandom/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/getrandom/LICENSE-MIT: MIT License
+vendor/ghash/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/ghash/LICENSE-MIT: MIT License
+vendor/gimli/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/gimli/LICENSE-MIT: MIT License
+vendor/glob/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/glob/LICENSE-MIT: MIT License
+vendor/group/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/group/LICENSE-MIT: *No copyright* MIT License
+vendor/half/LICENSE: *No copyright* UNKNOWN
+vendor/half/LICENSES/Apache-2.0.txt: *No copyright* Apache License 2.0
+vendor/half/LICENSES/MIT.txt: *No copyright* MIT License
+vendor/hashbrown/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/hashbrown/LICENSE-MIT: MIT License
+vendor/heck/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/heck/LICENSE-MIT: MIT License
+vendor/hermit-abi/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/hermit-abi/LICENSE-MIT: *No copyright* MIT License
+vendor/hkdf/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/hkdf/LICENSE-MIT: MIT License
+vendor/hmac/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/hmac/LICENSE-MIT: MIT License
+vendor/humantime/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/humantime/LICENSE-MIT: MIT License
+vendor/id-arena/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/id-arena/LICENSE-MIT: MIT License
+vendor/indexmap/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/indexmap/LICENSE-MIT: MIT License
+vendor/indicatif/LICENSE: MIT License
+vendor/instant/LICENSE: BSD 3-Clause License
+vendor/io-extras/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/io-extras/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/io-extras/LICENSE-MIT: *No copyright* MIT License
+vendor/io-lifetimes/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/io-lifetimes/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/io-lifetimes/LICENSE-MIT: *No copyright* MIT License
+vendor/ipnet/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/ipnet/LICENSE-MIT: MIT License
+vendor/is-terminal/LICENSE-MIT: *No copyright* MIT License
+vendor/is-terminal/LICENSE-MIT-atty: MIT License
+vendor/is_ci/LICENSE: ISC License
+vendor/itertools/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/itertools/LICENSE-MIT: MIT License
+vendor/itoa/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/itoa/LICENSE-MIT: *No copyright* MIT License
+vendor/ittapi-sys/LICENSES/BSD-3-Clause.txt: BSD 3-Clause License
+vendor/ittapi-sys/LICENSES/GPL-2.0-only.txt: GNU General Public License, Version 2
+vendor/ittapi-sys/c-library/LICENSES/BSD-3-Clause.txt: BSD 3-Clause License
+vendor/ittapi-sys/c-library/LICENSES/GPL-2.0-only.txt: GNU General Public License, Version 2
+vendor/jobserver/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/jobserver/LICENSE-MIT: MIT License
+vendor/js-sys/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/js-sys/LICENSE-MIT: MIT License
+vendor/k256/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/k256/LICENSE-MIT: MIT License
+vendor/lazy_static/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/lazy_static/LICENSE-MIT: MIT License
+vendor/leb128/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/leb128/LICENSE-MIT: MIT License
+vendor/libc/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/libc/LICENSE-MIT: MIT License
+vendor/libfuzzer-sys/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/libfuzzer-sys/LICENSE-MIT: MIT License
+vendor/libloading/LICENSE: ISC License
+vendor/libm/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/libm/LICENSE-MIT: MIT License
+vendor/linux-raw-sys/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/linux-raw-sys/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/linux-raw-sys/LICENSE-MIT: *No copyright* MIT License
+vendor/listenfd/LICENSE: *No copyright* Apache License 2.0
+vendor/lock_api/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/lock_api/LICENSE-MIT: MIT License
+vendor/log/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/log/LICENSE-MIT: MIT License
+vendor/mach/LICENSE.md: BSD 2-Clause License
+vendor/maybe-owned/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/maybe-owned/LICENSE-MIT: MIT License
+vendor/memchr/LICENSE-MIT: MIT License
+vendor/memfd/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/memfd/LICENSE-MIT: *No copyright* MIT License
+vendor/memmap2/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/memmap2/LICENSE-MIT: MIT License
+vendor/memoffset/LICENSE: MIT License
+vendor/memory_units/LICENSE: *No copyright* Mozilla Public License 2.0
+vendor/miette/LICENSE: *No copyright* Apache License 2.0
+vendor/miette-derive/LICENSE: *No copyright* Apache License 2.0
+vendor/miniz_oxide/LICENSE: MIT License
+vendor/miniz_oxide/LICENSE-APACHE.md: *No copyright* Apache License 2.0
+vendor/miniz_oxide/LICENSE-MIT.md: MIT License
+vendor/miniz_oxide/LICENSE-ZLIB.md: zlib License
+vendor/mio/LICENSE: MIT License
+vendor/miow/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/miow/LICENSE-MIT: MIT License
+vendor/ntapi/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/ntapi/LICENSE-MIT: *No copyright* MIT License
+vendor/num-bigint/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/num-bigint/LICENSE-MIT: MIT License
+vendor/num-bigint-dig/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/num-bigint-dig/LICENSE-MIT: MIT License
+vendor/num-integer/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/num-integer/LICENSE-MIT: MIT License
+vendor/num-iter/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/num-iter/LICENSE-MIT: MIT License
+vendor/num-rational/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/num-rational/LICENSE-MIT: MIT License
+vendor/num-traits/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/num-traits/LICENSE-MIT: MIT License
+vendor/num_cpus/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/num_cpus/LICENSE-MIT: MIT License
+vendor/object/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/object/LICENSE-MIT: MIT License
+vendor/ocaml-interop/LICENSE: MIT License
+vendor/once_cell/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/once_cell/LICENSE-MIT: *No copyright* MIT License
+vendor/oorandom/LICENSE-MIT: MIT License
+vendor/opaque-debug/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/opaque-debug/LICENSE-MIT: MIT License
+vendor/os_pipe/LICENSE: *No copyright* MIT License
+vendor/os_str_bytes/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/os_str_bytes/LICENSE-MIT: MIT License
+vendor/owo-colors/LICENSE: MIT License
+vendor/p256/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/p256/LICENSE-MIT: MIT License
+vendor/parity-wasm/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/parity-wasm/LICENSE-MIT: MIT License
+vendor/parking_lot/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/parking_lot/LICENSE-MIT: MIT License
+vendor/parking_lot_core/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/parking_lot_core/LICENSE-MIT: MIT License
+vendor/paste/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/paste/LICENSE-MIT: MIT License
+vendor/pem-rfc7468/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/pem-rfc7468/LICENSE-MIT: MIT License
+vendor/pin-project-lite/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/pin-project-lite/LICENSE-MIT: *No copyright* MIT License
+vendor/pkcs1/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/pkcs1/LICENSE-MIT: MIT License
+vendor/pkcs8/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/pkcs8/LICENSE-MIT: MIT License
+vendor/plotters/LICENSE: MIT License
+vendor/plotters-backend/LICENSE: MIT License
+vendor/plotters-svg/LICENSE: MIT License
+vendor/poly1305/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/poly1305/LICENSE-MIT: MIT License
+vendor/polyval/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/polyval/LICENSE-MIT: MIT License
+vendor/ppv-lite86/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/ppv-lite86/LICENSE-MIT: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/firesaber/aarch64/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/firesaber/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/firesaber/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem1344aes/clean/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem1344aes/opt/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem1344shake/clean/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem1344shake/opt/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem640aes/clean/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem640aes/opt/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem640shake/clean/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem640shake/opt/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem976aes/clean/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem976aes/opt/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem976shake/clean/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/frodokem976shake/opt/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_kem/hqc-rmrs-128/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/hqc-rmrs-128/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/hqc-rmrs-192/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/hqc-rmrs-192/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/hqc-rmrs-256/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/hqc-rmrs-256/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber1024/aarch64/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber1024/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber1024/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber1024-90s/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber1024-90s/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber512/aarch64/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber512/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber512/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber512-90s/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber512-90s/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber768/aarch64/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber768/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber768/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber768-90s/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/kyber768-90s/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/lightsaber/aarch64/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/lightsaber/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/lightsaber/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece348864/avx/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece348864/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece348864/sse/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece348864/vec/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece348864f/avx/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece348864f/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece348864f/sse/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece348864f/vec/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece460896/avx/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece460896/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece460896/sse/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece460896/vec/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece460896f/avx/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece460896f/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece460896f/sse/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece460896f/vec/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6688128/avx/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6688128/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6688128/sse/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6688128/vec/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6688128f/avx/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6688128f/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6688128f/sse/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6688128f/vec/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6960119/avx/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6960119/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6960119/sse/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6960119/vec/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6960119f/avx/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6960119f/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6960119f/sse/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece6960119f/vec/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece8192128/avx/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece8192128/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece8192128/sse/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece8192128/vec/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece8192128f/avx/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece8192128f/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece8192128f/sse/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/mceliece8192128f/vec/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntruhps2048509/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntruhps2048509/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntruhps2048677/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntruhps2048677/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntruhps40961229/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntruhps4096821/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntruhps4096821/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntruhrss1373/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntruhrss701/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntruhrss701/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr1013/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr1013/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr1277/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr1277/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr653/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr653/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr761/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr761/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr857/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr857/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr953/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/ntrulpr953/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/saber/aarch64/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_kem/saber/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/saber/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup1013/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup1013/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup1277/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup1277/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup653/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup653/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup761/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup761/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup857/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup857/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup953/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_kem/sntrup953/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium2/aarch64/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium2/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium2/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium2aes/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium2aes/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium3/aarch64/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium3/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium3/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium3aes/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium3aes/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium5/aarch64/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium5/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium5/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium5aes/avx2/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/dilithium5aes/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/falcon-1024/avx2/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_sign/falcon-1024/clean/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_sign/falcon-512/avx2/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_sign/falcon-512/clean/LICENSE: MIT License
+vendor/pqcrypto-kyber/pqclean/crypto_sign/rainbowI-circumzenithal/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/rainbowI-classic/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/rainbowI-compressed/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/rainbowIII-circumzenithal/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/rainbowIII-classic/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/rainbowIII-compressed/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/rainbowV-circumzenithal/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/rainbowV-classic/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/rainbowV-compressed/clean/LICENSE: *No copyright* UNKNOWN
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-128f-robust/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-128f-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-128f-simple/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-128f-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-128s-robust/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-128s-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-128s-simple/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-128s-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-192f-robust/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-192f-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-192f-simple/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-192f-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-192s-robust/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-192s-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-192s-simple/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-192s-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-256f-robust/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-256f-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-256f-simple/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-256f-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-256s-robust/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-256s-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-256s-simple/aesni/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-haraka-256s-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-128f-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-128f-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-128f-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-128f-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-128s-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-128s-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-128s-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-128s-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-192f-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-192f-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-192f-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-192f-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-192s-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-192s-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-192s-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-192s-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-256f-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-256f-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-256f-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-256f-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-256s-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-256s-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-256s-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-sha256-256s-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-128f-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-128f-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-128f-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-128f-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-128s-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-128s-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-128s-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-128s-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-192f-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-192f-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-192f-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-192f-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-192s-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-192s-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-192s-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-192s-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-256f-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-256f-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-256f-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-256f-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-256s-robust/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-256s-robust/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-256s-simple/avx2/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pqcrypto-kyber/pqclean/crypto_sign/sphincs-shake256-256s-simple/clean/LICENSE: *No copyright* Creative Commons CC0 1.0
+vendor/pretty_env_logger/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/pretty_env_logger/LICENSE-MIT: MIT License
+vendor/proc-macro-error/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/proc-macro-error/LICENSE-MIT: MIT License
+vendor/proc-macro-error-attr/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/proc-macro-error-attr/LICENSE-MIT: MIT License
+vendor/proc-macro2/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/proc-macro2/LICENSE-MIT: MIT License
+vendor/proptest/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/proptest/LICENSE-MIT: MIT License
+vendor/psm/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/psm/LICENSE-MIT: MIT License
+vendor/quick-error/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/quick-error/LICENSE-MIT: MIT License
+vendor/quote/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/quote/LICENSE-MIT: MIT License
+vendor/rand/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rand/LICENSE-MIT: MIT License
+vendor/rand_chacha/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rand_chacha/LICENSE-MIT: MIT License
+vendor/rand_core/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rand_core/LICENSE-MIT: MIT License
+vendor/rand_hc/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rand_hc/LICENSE-MIT: MIT License
+vendor/rand_xorshift/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rand_xorshift/LICENSE-MIT: MIT License
+vendor/rayon/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rayon/LICENSE-MIT: MIT License
+vendor/rayon-core/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rayon-core/LICENSE-MIT: MIT License
+vendor/redox_syscall/LICENSE: MIT License
+vendor/redox_users/LICENSE: MIT License
+vendor/regalloc2/LICENSE: *No copyright* Apache License 2.0
+vendor/regex/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/regex/LICENSE-MIT: MIT License
+vendor/regex/src/testdata/LICENSE: *No copyright* UNKNOWN
+vendor/regex-automata/LICENSE-MIT: MIT License
+vendor/regex-automata/data/fowler-tests/LICENSE: *No copyright* UNKNOWN
+vendor/regex-automata/data/tests/fowler/LICENSE: *No copyright* UNKNOWN
+vendor/regex-syntax/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/regex-syntax/LICENSE-MIT: MIT License
+vendor/regex-syntax/src/unicode_tables/LICENSE-UNICODE: Unicode License Agreement - Data Files and Software (2016)
+vendor/region/LICENSE: MIT License
+vendor/rsa/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rsa/LICENSE-MIT: *No copyright* MIT License
+vendor/rustc-demangle/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rustc-demangle/LICENSE-MIT: MIT License
+vendor/rustix/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rustix/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/rustix/LICENSE-MIT: *No copyright* MIT License
+vendor/rusty-fork/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/rusty-fork/LICENSE-MIT: MIT License
+vendor/ryu/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/ryu/LICENSE-BOOST: *No copyright* Boost Software License 1.0
+vendor/same-file/LICENSE-MIT: MIT License
+vendor/scopeguard/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/scopeguard/LICENSE-MIT: MIT License
+vendor/serde/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/serde/LICENSE-MIT: *No copyright* MIT License
+vendor/serde_cbor/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/serde_cbor/LICENSE-MIT: MIT License
+vendor/serde_derive/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/serde_derive/LICENSE-MIT: *No copyright* MIT License
+vendor/serde_json/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/serde_json/LICENSE-MIT: *No copyright* MIT License
+vendor/sha2/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/sha2/LICENSE-MIT: MIT License
+vendor/sharded-slab/LICENSE: MIT License
+vendor/shellexpand/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/shellexpand/LICENSE-MIT: MIT License
+vendor/shuffling-allocator/LICENSE: *No copyright* Mozilla Public License 2.0
+vendor/similar/LICENSE: *No copyright* Apache License 2.0
+vendor/slice-group-by/LICENSE: MIT License
+vendor/smallvec/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/smallvec/LICENSE-MIT: MIT License
+vendor/smawk/LICENSE: MIT License
+vendor/socket2/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/socket2/LICENSE-MIT: MIT License
+vendor/spin/LICENSE: MIT License
+vendor/spki/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/spki/LICENSE-MIT: MIT License
+vendor/stable_deref_trait/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/stable_deref_trait/LICENSE-MIT: MIT License
+vendor/static_assertions/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/static_assertions/LICENSE-MIT: MIT License
+vendor/strsim/LICENSE: MIT License
+vendor/subtle/LICENSE: BSD 3-Clause License
+vendor/supports-color/LICENSE: *No copyright* Apache License 2.0
+vendor/supports-hyperlinks/LICENSE: *No copyright* Apache License 2.0
+vendor/supports-unicode/LICENSE: *No copyright* Apache License 2.0
+vendor/symbolic_expressions/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/symbolic_expressions/LICENSE-MIT: MIT License
+vendor/syn/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/syn/LICENSE-MIT: *No copyright* MIT License
+vendor/synstructure/LICENSE: MIT License
+vendor/system-interface/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/system-interface/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/system-interface/LICENSE-MIT: *No copyright* MIT License
+vendor/target-lexicon/LICENSE: *No copyright* Apache License 2.0
+vendor/tempfile/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/tempfile/LICENSE-MIT: MIT License
+vendor/termcolor/LICENSE-MIT: MIT License
+vendor/terminal_size/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/terminal_size/LICENSE-MIT: MIT License
+vendor/textwrap/LICENSE: MIT License
+vendor/thiserror/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/thiserror/LICENSE-MIT: *No copyright* MIT License
+vendor/thiserror-impl/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/thiserror-impl/LICENSE-MIT: *No copyright* MIT License
+vendor/thread_local/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/thread_local/LICENSE-MIT: MIT License
+vendor/tinytemplate/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/tinytemplate/LICENSE-MIT: MIT License
+vendor/tokio/LICENSE: MIT License
+vendor/tokio-macros/LICENSE: MIT License
+vendor/toml/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/toml/LICENSE-MIT: MIT License
+vendor/tracing/LICENSE: MIT License
+vendor/tracing-attributes/LICENSE: MIT License
+vendor/tracing-core/LICENSE: MIT License
+vendor/tracing-core/src/spin/LICENSE: MIT License
+vendor/tracing-subscriber/LICENSE: MIT License
+vendor/typenum/LICENSE: *No copyright* UNKNOWN
+vendor/typenum/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/typenum/LICENSE-MIT: MIT License
+vendor/unicode-linebreak/LICENSE: *No copyright* Apache License 2.0
+vendor/unicode-width/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/unicode-width/LICENSE-MIT: MIT License
+vendor/unicode-xid/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/unicode-xid/LICENSE-MIT: MIT License
+vendor/universal-hash/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/universal-hash/LICENSE-MIT: MIT License
+vendor/uuid/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/uuid/LICENSE-MIT: MIT License
+vendor/version_check/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/version_check/LICENSE-MIT: MIT License
+vendor/wait-timeout/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/wait-timeout/LICENSE-MIT: MIT License
+vendor/walkdir/LICENSE-MIT: MIT License
+vendor/wasi/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/wasi/LICENSE-Apache-2.0_WITH_LLVM-exception: *No copyright* Apache License 2.0
+vendor/wasi/LICENSE-MIT: *No copyright* MIT License
+vendor/wasm-bindgen/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/wasm-bindgen/LICENSE-MIT: MIT License
+vendor/wasm-bindgen-backend/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/wasm-bindgen-backend/LICENSE-MIT: MIT License
+vendor/wasm-bindgen-macro/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/wasm-bindgen-macro/LICENSE-MIT: MIT License
+vendor/wasm-bindgen-macro-support/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/wasm-bindgen-macro-support/LICENSE-MIT: MIT License
+vendor/wasm-bindgen-shared/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/wasm-bindgen-shared/LICENSE-MIT: MIT License
+vendor/wasm-encoder/LICENSE: *No copyright* Apache License 2.0
+vendor/wasm-smith/LICENSE: *No copyright* Apache License 2.0
+vendor/wasmi/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/wasmi/LICENSE-MIT: MIT License
+vendor/wasmparser/LICENSE: *No copyright* Apache License 2.0
+vendor/wasmprinter/LICENSE: *No copyright* Apache License 2.0
+vendor/wast/LICENSE: *No copyright* Apache License 2.0
+vendor/wat/LICENSE: *No copyright* Apache License 2.0
+vendor/web-sys/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/web-sys/LICENSE-MIT: MIT License
+vendor/which/LICENSE.txt: MIT License
+vendor/winapi/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/winapi/LICENSE-MIT: MIT License
+vendor/winapi-util/LICENSE-MIT: MIT License
+vendor/winx/LICENSE: *No copyright* Apache License 2.0
+vendor/xoodyak/LICENSE: MIT License
+vendor/zeroize/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/zeroize/LICENSE-MIT: MIT License
+vendor/zeroize_derive/LICENSE-APACHE: *No copyright* Apache License 2.0
+vendor/zeroize_derive/LICENSE-MIT: MIT License
+vendor/zstd/LICENSE: MIT License
+vendor/zstd-safe/LICENSE: *No copyright* UNKNOWN
+vendor/zstd-safe/LICENSE.Apache-2.0: *No copyright* Apache License 2.0
+vendor/zstd-safe/LICENSE.Mit: MIT License
+vendor/zstd-sys/LICENSE: *No copyright* UNKNOWN
+vendor/zstd-sys/LICENSE.Apache-2.0: *No copyright* Apache License 2.0
+vendor/zstd-sys/LICENSE.Mit: MIT License
+vendor/zstd-sys/zstd/LICENSE: BSD 3-Clause License
